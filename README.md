@@ -24,11 +24,11 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/cry
 
 ## Cryptocurrency line plot
 
-![](i13.png)
+![](https://github.com/Rakshit023/Bitcoin-Prediction/blob/main/i13.png)
 
 ## Actual vs predicted prices
 
-![](i14.png)
+![](https://github.com/Rakshit023/Bitcoin-Prediction/blob/main/i14.png)
 
 ## References
 
